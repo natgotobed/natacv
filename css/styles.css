@@ -1,0 +1,165 @@
+/*******************************TAGS***********************/
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #EAF6F6;
+  line-height: 1.5;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Dawning of a New Day', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Courier Prime', monospace;
+  padding-bottom: 10px;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Courier Prime', monospace;
+}
+
+h6 {
+  font-family: 'Courier Prime', monospace;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Courier Prime', monospace;
+  color: #40514E;
+  line-height: 2;
+}
+
+/***********CLASS********/
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-bottom: 50px;
+  background-color: white;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.sun {
+  width: 20%;
+  position: absolute;
+  right: 80px;
+  top: 30px;
+}
+
+.bee {
+  width: 20%;
+  position: absolute;
+  left: 150px;
+  bottom: 150px;
+}
+
+.footer-link {
+  font-family: 'Courier Prime', monospace;
+  color: #11999E;
+  line-height: 1.5;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.btn {
+  font-family: 'Press Start 2P', cursive;
+  color: #11999E;
+  line-height: 1.5;
+}
+
+.NS {
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #EAF6F6;
+  margin-bottom: 0;
+  padding-top: 50px;
+}
+
+.doh {
+  color: #11999E;
+}
+
+.sparkles {
+  margin-top: 50px;
+  margin-bottom: auto;
+  width: 8%;
+}
+
+.skill-row {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.cow {
+  width: 30%;
+  float: left;
+  margin-right: 35px;
+}
+
+.vibe {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.piano {
+  width: 15%;
+}
+
+.sponsor {
+  color: #11999E;
+}
+
+.hrdots {
+  border: 6px dotted #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Courier Prime', monospace;
+  color: #ffffff;
+  font-size: 13px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F9C5D5;
+  text-decoration: none;
+}
+
+.contact-me {
+  background-color: white;
+  padding-bottom: 100px;
+}
